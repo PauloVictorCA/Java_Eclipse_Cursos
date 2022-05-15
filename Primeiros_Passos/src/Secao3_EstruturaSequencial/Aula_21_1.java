@@ -25,7 +25,6 @@ public class Aula_21_1 {
 		System.out.printf("PRECO = %.2f%n", preco);
 		
 		
-		
 		sc.close();		
 	}
 
