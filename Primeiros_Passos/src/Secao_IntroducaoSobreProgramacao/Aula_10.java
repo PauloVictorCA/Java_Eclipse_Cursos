@@ -4,7 +4,7 @@ public class Aula_10 {
 
 	public static void main(String[] args) {
 
-		System.out.println("oi, oi,a,q");
+		System.out.println("teste");
 
 	}
 
