@@ -21,7 +21,8 @@ public class Uri_1010 {
 		
 		ValorTotal = quatP1 * valorP1 + quatP2 * valorP2;
 		
-		System.out.printf("VALOR A PAGAR: R$ %.2f", ValorTotal);
+		System.out.printf("VALOR A PAGAR: R$ %.2f\n", ValorTotal);
+		
 		sc.close();
 		
 		
